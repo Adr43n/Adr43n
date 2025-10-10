@@ -27,9 +27,16 @@ Ici, vous trouverez mes projets classés par **semestre** et mes expériences pr
 
 ---
 
-## 📊 Langages les plus utilisés (dynamique)
+## 📊 Langages les plus utilisés
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adr43n&layout=compact&theme=blue-green)
+```mermaid
+pie title Utilisation des langages
+    "Java": 35
+    "SQL/PLSQL": 20
+    "HTML/CSS": 15
+    "C": 15
+    "PHP": 10
+    "Ada": 5
 
 ---
 
