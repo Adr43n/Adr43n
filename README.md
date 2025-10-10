@@ -1,11 +1,11 @@
-# 📘 Projets Académiques – Adrien Basset
+# Projets Académiques – Adrien Basset
 
 Bienvenue sur mon dépôt GitHub regroupant mes **projets académiques réalisés dans le cadre de mon BUT Informatique** à l’IUT Paul Sabatier.  
 Ici, vous trouverez mes projets classés par **semestre** et mes expériences pratiques avec les différents langages et outils que j’utilise.
 
 ---
 
-## 🛠️ Langages et Outils
+## Langages et Outils
 
 ### Langages
 ![Ada](https://img.shields.io/badge/Ada-FF5733?style=for-the-badge&logo=ada) 
@@ -22,19 +22,18 @@ Ici, vous trouverez mes projets classés par **semestre** et mes expériences pr
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux) 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows) 
 ![UML](https://img.shields.io/badge/UML-007ACC?style=for-the-badge) 
-![Merise](https://img.shields.io/badge/Merise-6B8E23?style=for-the-badge) 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)
 
 ---
 
-## 📊 Langages les plus utilisés
+## Langages les plus utilisés
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adr43n&layout=compact&theme=blue-green)
 
 
 ---
 
-## 📈 Statistiques GitHub (dynamique)
+## Statistiques GitHub (dynamique)
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Adr43n&show_icons=true&theme=blue-green)
 
