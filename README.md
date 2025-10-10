@@ -1,7 +1,6 @@
-# Projets Académiques – Adrien Basset
+# 👋 Bienvenue sur mon GitHub !
 
-Bienvenue sur mon dépôt GitHub regroupant mes **projets académiques réalisés dans le cadre de mon BUT Informatique** à l’IUT Paul Sabatier.  
-Ici, vous trouverez mes projets classés par **semestre** et mes expériences pratiques avec les différents langages et outils que j’utilise.
+![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Bonjour+je+m'appelle+Alex;Hello+my+name+is+Alex)
 
 ---
 
