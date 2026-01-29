@@ -37,4 +37,4 @@ jobs:
           branch: "update-languages-badge"
           title: "Update languages badge"
           body: "Automated badge update"
-          paths: LANGUAGES_BADGE.svg
+          path: LANGUAGES_BADGE.svg
