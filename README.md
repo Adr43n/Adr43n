@@ -77,7 +77,7 @@
 
 ## 📈 Statistiques GitHub
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Adr43n&layout=compact&theme=blue-green&langs_count=100
+![Languages](./LANGUAGES_BADGE.svg)
 
 ![GitHub Contributions](https://ghchart.rshah.org/Adr43n)
 
