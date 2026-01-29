@@ -8,29 +8,26 @@ on:
 jobs:
   generate-badge:
     runs-on: ubuntu-latest
-
     steps:
-      # ✅ 1️⃣ Checkout du dépôt avec le PAT pour push
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
-          token: ${{ secrets.PAT_TOKEN }}    # <- Ici on met le PAT
-          persist-credentials: true          # <- garde les credentials pour git push
+          token: ${{ secrets.PAT_TOKEN }}
+          repository: Adr43n/Adr43n
+          persist-credentials: true
+          fetch-depth: 0
 
-      # 2️⃣ Setup Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      # 3️⃣ Installer les dépendances
       - name: Install dependencies
         run: pip install requests pybadges
 
-      # 4️⃣ Générer le badge
       - name: Generate languages badge
         run: python scripts/generate_languages_badge.py
 
-      # 5️⃣ Créer la Pull Request avec ton fichier unique
       - name: Create Pull Request with updated badge
         uses: peter-evans/create-pull-request@v5
         with:
@@ -39,4 +36,4 @@ jobs:
           title: "Update languages badge"
           body: "Automated badge update"
           add-paths: LANGUAGES_BADGE.svg
-          token: ${{ secrets.PAT_TOKEN }}  # <- On utilise le même PAT ici
+          token: ${{ secrets.PAT_TOKEN }}
