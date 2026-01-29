@@ -14,6 +14,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php) 
 ![SQL/PLSQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle)
+
 
 ### Outils et Méthodes
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) 
@@ -22,6 +26,12 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows) 
 ![UML](https://img.shields.io/badge/UML-007ACC?style=for-the-badge) 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)
+![KNIME](https://img.shields.io/badge/KNIME-FDD800?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
 
 ---
 
