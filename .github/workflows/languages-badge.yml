@@ -2,31 +2,39 @@ name: Generate Languages Badge
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Exécute tous les jours à minuit
-  workflow_dispatch:      # Permet de lancer manuellement
+    - cron: '0 0 * * *'
+  workflow_dispatch:     
 
 jobs:
   generate-badge:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Checkout du dépôt avec permissions pour push/PR
       - uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
+      # 2️⃣ Configuration de Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
+      # 3️⃣ Installation des dépendances
       - name: Install dependencies
         run: pip install requests pybadges
 
+      # 4️⃣ Génération du badge
       - name: Generate languages badge
         run: python scripts/generate_languages_badge.py
 
-      - name: Commit and push badge
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add LANGUAGES_BADGE.svg
-          git commit -m "Update languages badge" || echo "No changes"
-          git push
+      # 5️⃣ Création d'une Pull Request si le badge a changé
+      - name: Create Pull Request with updated badge
+        uses: peter-evans/create-pull-request@v5
+        with:
+          commit-message: "Update languages badge"
+          branch: "update-languages-badge"
+          title: "Update languages badge"
+          body: "Automated badge update"
+          paths: LANGUAGES_BADGE.svg
