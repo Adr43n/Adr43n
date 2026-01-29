@@ -37,4 +37,7 @@ jobs:
           branch: "update-languages-badge"
           title: "Update languages badge"
           body: "Automated badge update"
-          add-paths: LANGUAGES_BADGE.svg   # <-- correct pour un fichier unique
+          add-paths: LANGUAGES_BADGE.svg
+          token: ${{ secrets.PAT_TOKEN }}   
+
+
