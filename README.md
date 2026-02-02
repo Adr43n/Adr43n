@@ -77,7 +77,7 @@
 
 ## 📈 Statistiques GitHub
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adr43n&layout=compact&langs_count=20&theme=tokyonight)
+![Top Langages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adr43n&layout=compact&langs_count=20)
 ![GitHub Contributions](https://ghchart.rshah.org/Adr43n)
 
 ---
