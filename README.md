@@ -77,8 +77,7 @@
 
 ## 📈 Statistiques GitHub
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Adr43n&layout=compact&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats-two-xi-94.vercel.app/api/top-langs/?username=Adr43n&layout=compact&theme=radical&langs_count=1000)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adr43n&layout=compact&langs_count=20&theme=tokyonight)
 ![GitHub Contributions](https://ghchart.rshah.org/Adr43n)
 
 ---
