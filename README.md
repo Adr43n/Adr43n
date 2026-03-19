@@ -1,20 +1,20 @@
-# 👋 Bienvenue sur mon GitHub !
+#  Bienvenue sur mon GitHub !
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Bonjour%2C+je+m'appelle+Adrien+Basset;Hello%2C+my+name+is+Adrien+Basset)
 
 ---
 
-## 👨‍💻 À propos de moi
+##  À propos de moi
 
-🎓 Étudiant en informatique, passionné par le **développement logiciel**, la **qualité du code**, les **bases de données** et les **systèmes d’information**.  
-💡 Intéressé par le **développement backend**, la **data / BI**, ainsi que les **bonnes pratiques de génie logiciel**.  
-🚀 Toujours motivé pour apprendre, expérimenter et améliorer mes compétences à travers des projets concrets.
+ Étudiant en informatique, passionné par le **développement logiciel**, la **qualité du code**, les **bases de données** et les **systèmes d’information**.  
+ Intéressé par le **développement backend**, la **data / BI**, ainsi que les **bonnes pratiques de génie logiciel**.  
+ Toujours motivé pour apprendre, expérimenter et améliorer mes compétences à travers des projets concrets.
 
 ---
 
-## 🧠 Compétences techniques
+##  Compétences techniques
 
-### 💻 Langages
+###  Langages
 ![Ada](https://img.shields.io/badge/Ada-FF5733?style=for-the-badge&logo=ada)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠️ Outils & Technologies
+###  Outils & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab)
@@ -43,14 +43,14 @@
 
 ---
 
-### 🗄️ Bases de données
+###  Bases de données
 - SQL avancé (JOIN, sous-requêtes, contraintes)
 - PL/SQL (procédures, fonctions, triggers)
 - Modélisation relationnelle et normalisation
 
 ---
 
-### 🧪 Tests & Qualité logicielle
+###  Tests & Qualité logicielle
 - Tests unitaires avec **JUnit 4** et **JUnit 5**
 - Qualité logicielle
 - Bonnes pratiques de développement
@@ -58,7 +58,7 @@
 
 ---
 
-### 🔐 Mathématiques & Sécurité
+###  Mathématiques & Sécurité
 - Cryptographie (symétrique et asymétrique)
 - Cryptographie appliquée à la sécurité informatique
 - Probabilités
@@ -66,7 +66,7 @@
 
 ---
 
-### 📊 Gestion & Méthodes
+###  Gestion & Méthodes
 - Gestion de projet
 - Méthodes agiles (Scrum, Kanban)
 - UML
@@ -75,7 +75,7 @@
 
 ---
 
-## 📈 Statistiques GitHub
+##  Statistiques GitHub
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Adr43n&show_icons=true&theme=radical" alt="Stats GitHub" height="200"/> 
@@ -83,5 +83,5 @@
 </p
 ---
 
-Merci de visiter mon profil 🙌  
+Merci de visiter mon profil  
 N’hésitez pas à **explorer mes projets** ou à me contacter !
