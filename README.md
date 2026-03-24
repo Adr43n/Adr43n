@@ -83,5 +83,11 @@
 </p
 ---
 
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adr43n/Adr43n/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 Merci de visiter mon profil  
 N’hésitez pas à **explorer mes projets** ou à me contacter !
